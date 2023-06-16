@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My name is Keito Utsumi, I'm a university student in waseda university. I major computer vision.
 
-You can follow me on:
 <!--
+You can follow me on:
 - my [blog](YOUR BLOG URL) 💻 
 - my Youtube [channel](YOUR YOUTUBE CHANNEL URL) 🎥 
 - [Medium](YOUR MEDIUM URL)
@@ -30,14 +30,8 @@ You can follow me on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=video_highlight_selector)](https://github.com/keitoutsumi/video_highlight_selector)
 
-<a href="https://github.com/keitoutsumi/ML_Study">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO2&theme=tokyonight" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=ML_Study)](https://github.com/keitoutsumi/ML_study)
 
-<a href="https://github.com/keitoutsumi/memo_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO3&theme=tokyonight" />
-</a>    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=memo_app)](https://github.com/keitoutsumi/memo_app)
 
-<a href="https://github.com/keitoutsumi/snakegame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO4&theme=tokyonight" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=snakegame)](https://github.com/keitoutsumi/snakegame)
