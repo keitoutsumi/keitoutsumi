@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Keito Utsumi, I'm a university student in waseda university. I major computer vision.
+
+You can follow me on:
+<!--
+- my [blog](YOUR BLOG URL) 💻 
+- my Youtube [channel](YOUR YOUTUBE CHANNEL URL) 🎥 
+- [Medium](YOUR MEDIUM URL)
+-->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keitoutsumi&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitoutsumi&hide=html&layout=compact&theme=dracula)](https://github.com/keitoutsumi/github-readme-stats)
+
+<a href="https://github.com/keitoutsumi/video_highlight_selector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO1&theme=tokyonight" />
+</a>    
+<a href="https://github.com/keitoutsumi/ML_Study">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/keitoutsumi/memo_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO3&theme=tokyonight" />
+</a>    
+
+<a href="https://github.com/keitoutsumi/snakegame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO4&theme=tokyonight" />
+</a>
