@@ -28,7 +28,7 @@ You can follow me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitoutsumi&hide=html&layout=compact&theme=dracula)](https://github.com/keitoutsumi/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/keitoutsumi/video_highlight_selector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=video_highlight_selector)](https://github.com/keitoutsumi/video_highlight_selector)
 
 <a href="https://github.com/keitoutsumi/ML_Study">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=REPO2&theme=tokyonight" />
