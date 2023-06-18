@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Keito Utsumi, I'm a university student at Waseda University. I major in computer science.
+
 I’m currently working on multimodal aproaches for video summarization on Esports Datasets!
 
 <!--
