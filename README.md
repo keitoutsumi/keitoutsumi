@@ -32,7 +32,7 @@ You can follow me on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=video_highlight_selector)](https://github.com/keitoutsumi/video_highlight_selector)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=snakegame)](https://github.com/keitoutsumi/valorant_VOD2minimap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=valorant_VOD2minimap)](https://github.com/keitoutsumi/valorant_VOD2minimap)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keitoutsumi&repo=ML_Study)](https://github.com/keitoutsumi/ML_study)
 
