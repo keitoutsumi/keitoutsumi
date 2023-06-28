@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Keito Utsumi, I'm a university student at Waseda University. I major in computer science.
+My name is Keito Utsumi, I'm a university student at Waseda University. I major computer science.
 
 I’m currently working on multimodal aproaches for video summarization on Esports Datasets!
 
@@ -57,6 +57,8 @@ You can follow me on:
 - my Youtube [channel](YOUR YOUTUBE CHANNEL URL) 🎥 
 - [Medium](YOUR MEDIUM URL)
 -->
+
+## Stats and Repositories
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keitoutsumi&show_icons=true&theme=dracula)
 
