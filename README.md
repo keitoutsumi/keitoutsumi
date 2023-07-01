@@ -36,12 +36,6 @@ I’m currently working on multimodal aproaches for video summarization on Espor
 
 　自宅ＰＣおよび研究室のサーバーがUbuntu環境であるため、ファイルの作成や移動、編集を含めた基本的なUnixコマンドの知識を保有。
 
-<!--
-You can follow me on:
-- my [blog](YOUR BLOG URL) 💻 
-- my Youtube [channel](YOUR YOUTUBE CHANNEL URL) 🎥 
-- [Medium](YOUR MEDIUM URL)
--->
 
 ## Stats and Repositories
 
