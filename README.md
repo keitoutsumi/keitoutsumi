@@ -4,7 +4,7 @@ My name is Keito Utsumi, I'm a university student at Waseda University. I major 
 
 I’m currently working on multimodal aproaches for video summarization on Esports Datasets!
 
-## Skills
+## スキル（日本語）
 
 ＜機械学習関連スキル＞
 
