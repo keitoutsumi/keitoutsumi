@@ -32,7 +32,7 @@ I’m currently working on multimodal aproaches for video summarization on Espor
  
 ＜Unixコマンドの知識＞
 
-　自宅ＰＣおよび研究室のサーバーがUbuntu環境であるため、ファイルの作成や移動、編集を含めた基本的なUnixコマンドの知識を保有。
+　ファイルの作成や移動、編集を含めた基本的なUnixコマンドの知識を保有。
 
 
 ## Stats and Repositories
