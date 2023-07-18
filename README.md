@@ -1,4 +1,4 @@
-HI! My name is Keito Utsumi, I'm a university student at Waseda University. I major computer science.
+Hi! My name is Keito Utsumi, I'm a university student at Waseda University. I major computer science.
 
 I’m currently working on multimodal aproaches for video summarization on Esports Datasets
 
@@ -9,6 +9,7 @@ I’m currently working on multimodal aproaches for video summarization on Espor
  ・JDLA公認プログラムで機械学習・深層学習修了。
  
 ・回帰モデル・決定木・SVM・ニューラルネットワークなどの代表的なアルゴリズムはpythonで一から記述した経験あり。
+・Experience on writing algorithms such as linear regression, decision trees, SVMs, simple neural networks from scratch.
 
 ・機械学習フレームワークはPytorch, Tensorflow&keras, scikit-learnの使用経験あり。現在は主にPytorchを使用。
 
