@@ -2,39 +2,6 @@ Hi! My name is Keito Utsumi, I'm a university student at Waseda University. I ma
 
 I’m currently working on multimodal aproaches for video summarization on Esports Datasets / Biological data
 
-## スキル
-
-＜機械学習関連スキル＞
-
- ・JDLA公認プログラムで機械学習・深層学習修了。
- 
-・回帰モデル・決定木・SVM・ニューラルネットワークなどの代表的なアルゴリズムはpythonで一から記述した経験あり。
-・Experience on writing algorithms such as linear regression, decision trees, SVMs, simple neural networks from scratch.
-
-・機械学習フレームワークはPytorch, Tensorflow&keras, scikit-learnの使用経験あり。現在は主にPytorchを使用。
-
-・機械学習用のpythonディストリビューションとしてAnacondaを使用中。
-
-・代表的なモデルとして、CNN(AlexNet, ResNet), RNN(LSTM), 3D CNN(TSN, R3D,  Slowfast, T3D)の取り扱い経験あり。
- 
-＜動画像データ処理・特徴量作成スキル＞
-
-・OpenCV,ffmpegを画像・動画処理に普段使いしており、調べながらであれば任意の加工が行えるレベル。
-
-・大学の研究で事前学習済みの深層学習モデルから動画の特徴抽出を行っているため、動画像データからの特徴量作成スキルを保有。
- 
-＜英語力＞
-
-幼少期をアメリカで過ごし中高大学でも帰国子女向けのクラスに在籍。プログラミングも英語で学習する機会が多かったため、グローバルなチームにおけるスムーズな意思疎通・英語で書かれた論文の読解等のタスクが遂行可能。
- 
-＜プロジェクト管理能力＞
-
-　Gitを使ったバージョン管理を普段の個人開発で使用している他、チーム開発の経験からGit-flowワークフローを使った基本的なプロジェクト管理の流れを理解している。
- 
-＜Unixコマンドの知識＞
-
-　ファイルの作成や移動、編集を含めた基本的なUnixコマンドの知識を保有。
-
 
 ## Stats and Repositories
 
